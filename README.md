@@ -34,7 +34,7 @@ Pre-rendered ShapeNet cars and multi-chair images from https://drive.google.com/
 
 # Pre-trained weights
 
-Download our pre-trained GeNVS weights from 
+Download our pre-trained GeNVS weights from https://www.kaggle.com/datasets/jhihyang/viewattention-weights
 
 # Evaluation
 
