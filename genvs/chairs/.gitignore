@@ -1,0 +1,5 @@
+*.pyc
+wandb/
+training_runs/
+*.swp
+*eval_out*
