@@ -140,7 +140,7 @@ def training_loop(
     # initialize wandb
     if not nowandb:
         if dist.get_rank() == 0:
-            wandb.init(project="OurGeNVS", entity="jhihyang_wu")
+            wandb.init(project="", entity="")
             wandb.watch(net, log="all", log_freq=log_freq)
 
     while True:
